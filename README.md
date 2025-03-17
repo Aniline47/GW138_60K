@@ -6,7 +6,7 @@
 
 ## 引脚定义
 
-<img src="PCB_design/SCH_GW138-60K_2-IO映射.jpg">
+<img src="PCB_design/SCH_GW138-60K_2-IO映射.png">
 
 ## 测试外设
 
