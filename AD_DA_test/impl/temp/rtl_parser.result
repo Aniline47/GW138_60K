@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/AD_DA_test.sv",
+  "InstLine" : 1,
+  "InstName" : "AD_DA_test",
+  "ModuleFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/AD_DA_test.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "AD_DA_test",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/AD_DA_test.sv",
+    "InstLine" : 23,
+    "InstName" : "LTC2220_PLL",
+    "ModuleFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/gowin_pll/gowin_pll_ad.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_PLL_AD"
+   },
+   {
+    "InstFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/AD_DA_test.sv",
+    "InstLine" : 28,
+    "InstName" : "AD9744_PLL",
+    "ModuleFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/gowin_pll/gowin_pll_da.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_PLL_DA"
+   },
+   {
+    "InstFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/AD_DA_test.sv",
+    "InstLine" : 33,
+    "InstName" : "AD9744_DDS",
+    "ModuleFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/dds_ii/dds_ii.v",
+    "ModuleLine" : 2351,
+    "ModuleName" : "DDS_II_DA",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/dds_ii/dds_ii.v",
+      "InstLine" : 2364,
+      "InstName" : "u_dds_compiler_core",
+      "ModuleFile" : "E:/Gowin/Project_Contest/GW138_60B/AD_DA_test/src/dds_ii/dds_ii.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~dds_ii_core.DDS_II_DA"
+     }
+    ]
+   }
+  ]
+ }
+]

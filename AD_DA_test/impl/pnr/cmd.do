@@ -1,0 +1,21 @@
+-d E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\gwsynthesis\AD_DA_test.vg
+-p GW5AST-138B-PBGA484A-1
+-pn GW5AST-LV138PG484AC1/I0
+-cst E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\src\AD_DA_test.cst
+-cfg E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\pnr\device.cfg
+-sdc E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\src\AD_DA_test.sdc
+-gao_crc 1111010110010100
+-bit
+-tr
+-ph
+-timing
+-ireg_not_in_iob
+-oreg_not_in_iob
+-ioreg_not_in_iob
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
+-enable_dsrm 0
+-rtl_gao

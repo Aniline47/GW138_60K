@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5AST-138B" package="PBGA484A" speed="1" partNumber="GW5AST-LV138PG484AC1/I0"/>
+    <FileList>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\gowin_clkdiv\gowin_clkdiv.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\gowin_pll\gowin_pll.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_defines.vh" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_enc.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_hdmi.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_openldi.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_pong.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_tcard.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_term.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_tmds.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_utils.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\hdmi\svo_vdma.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\sd_card\sd_card_cmd.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\sd_card\sd_card_sec_read_write.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\sd_card\sd_card_top.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\sd_card\spi_master.v" type="verilog"/>
+        <File path="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\src\top.sv" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="enable_dsrm" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="E:\Gowin\Project_Contest\GW138_60B\GW138K_test\impl\gwsynthesis\GW138K_test.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="0.9"/>
+        <Option type="vccx" value="1.8"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

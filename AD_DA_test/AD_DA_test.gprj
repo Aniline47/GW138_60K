@@ -1,0 +1,17 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW5AST-138B" pn="GW5AST-LV138PG484AC1/I0">gw5ast138b-011</Device>
+    <FileList>
+        <File path="src/AD_DA_test.sv" type="file.verilog" enable="1"/>
+        <File path="src/AD_DA_test_tb.sv" type="file.verilog" enable="0"/>
+        <File path="src/dds_ii/dds_ii.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_pll/gowin_pll_ad.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_pll/gowin_pll_da.v" type="file.verilog" enable="1"/>
+        <File path="src/AD_DA_test.cst" type="file.cst" enable="1"/>
+        <File path="src/AD_DA_test.sdc" type="file.sdc" enable="1"/>
+        <File path="src/AD_DA_test.rao" type="file.gao" enable="1"/>
+    </FileList>
+</Project>

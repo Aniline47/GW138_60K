@@ -1,0 +1,81 @@
+{
+ "Device" : "GW5AST-138B",
+ "Files" : [
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/gowin_clkdiv/gowin_clkdiv.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/gowin_pll/gowin_pll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_defines.vh",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_enc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_hdmi.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_openldi.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_pong.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_tcard.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_term.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_tmds.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_utils.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/hdmi/svo_vdma.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/sd_card/sd_card_cmd.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/sd_card/sd_card_sec_read_write.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/sd_card/sd_card_top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/sd_card/spi_master.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/src/top.sv",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/Gowin/Project_Contest/GW138_60B/GW138K_test/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}
