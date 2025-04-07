@@ -2,7 +2,7 @@
 //All rights reserved.
 //File Title: Post-PnR Verilog Simulation Model file
 //Tool Version: V1.9.10.03 (64-bit)
-//Created Time: Mon Mar 17 16:58:43 2025
+//Created Time: Tue Mar 18 19:36:13 2025
 
 `timescale 100 ps/100 ps
 module DDS_II_DA(
@@ -591,7 +591,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_25_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_25_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_24_s0  (
-	.D(VCC),
+	.D(GND),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -599,7 +599,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_24_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_24_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_23_s0  (
-	.D(VCC),
+	.D(GND),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -623,7 +623,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_21_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_21_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_20_s0  (
-	.D(GND),
+	.D(VCC),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -631,7 +631,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_20_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_20_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_19_s0  (
-	.D(GND),
+	.D(VCC),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -639,7 +639,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_19_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_19_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_18_s0  (
-	.D(VCC),
+	.D(GND),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -655,7 +655,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_17_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_17_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_16_s0  (
-	.D(GND),
+	.D(VCC),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -671,7 +671,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_15_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_15_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_14_s0  (
-	.D(GND),
+	.D(VCC),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -687,7 +687,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_13_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_13_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_12_s0  (
-	.D(VCC),
+	.D(GND),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -703,7 +703,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_11_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_11_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_10_s0  (
-	.D(GND),
+	.D(VCC),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -711,7 +711,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_10_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_10_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_9_s0  (
-	.D(GND),
+	.D(VCC),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -727,7 +727,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_8_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_8_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_7_s0  (
-	.D(GND),
+	.D(VCC),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -735,7 +735,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_7_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_7_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_6_s0  (
-	.D(VCC),
+	.D(GND),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),
@@ -743,7 +743,7 @@ DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_6_s0  (
 );
 defparam \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_6_s0 .INIT=1'b0;
 DFFRE \u_dds_compiler_core/u_dds_pha_cfg/r_chX_pinc_5_s0  (
-	.D(VCC),
+	.D(GND),
 	.CLK(clk_i),
 	.CE(VCC),
 	.RESET(GND),

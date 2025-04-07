@@ -7,7 +7,7 @@
 
 -mod_name Gowin_PLL_AD
 -file_name gowin_pll_ad
--path E:/Gowin/Project_Contest/LTC2220_test/src/gowin_pll/
+-path E:/Gowin/Project_Contest/GW138_60K/AD_DA_test/src/gowin_pll/
 -type PLL_ADV
 -file_type vlg
 -ssc false
@@ -26,7 +26,7 @@
 -dyn_dpa_en false
 -clkout0_bypass false
 -dyn_odiv0_sel false
--odiv0_sel 5
+-odiv0_sel 9
 -odiv0_frac_sel 0
 -dyn_dt0_sel false
 -clkout0_dt_dir 1
@@ -46,5 +46,5 @@
 -en_clkout6 false
 -en_clkfbout false
 -dyn_mdiv_sel false
--mdiv_sel 17
+-mdiv_sel 23
 -mdiv_frac_sel 0

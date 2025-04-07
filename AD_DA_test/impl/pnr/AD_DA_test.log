@@ -1,14 +1,12 @@
-Reading netlist file: "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\gwsynthesis\AD_DA_test.vg"
-Parsing netlist file "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\gwsynthesis\AD_DA_test.vg" completed
+Reading netlist file: "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\gwsynthesis\AD_DA_test.vg"
+Parsing netlist file "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\gwsynthesis\AD_DA_test.vg" completed
 Processing netlist completed
-Reading constraint file: "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\src\AD_DA_test.cst"
+Reading constraint file: "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\src\AD_DA_test.cst"
 Physical Constraint parsed completed
 Running placement......
 [10%] Placement Phase 0 completed
 [20%] Placement Phase 1 completed
 [30%] Placement Phase 2 completed
-WARN  (TA1132) :  'clk_in_ad_1[0]' was determined to be a clock but was not created.
-WARN  (TA1132) :  'tck_pad_i' was determined to be a clock but was not created.
 [50%] Placement Phase 3 completed
 Running routing......
 [60%] Routing Phase 0 completed
@@ -23,10 +21,10 @@ Bitstream generation in progress......
 Bitstream generation completed
 Running power analysis......
 [100%] Power analysis completed
-Generate file "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\pnr\AD_DA_test.power.html" completed
-Generate file "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\pnr\AD_DA_test.pin.html" completed
-Generate file "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\pnr\AD_DA_test.rpt.html" completed
-Generate file "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\pnr\AD_DA_test.rpt.txt" completed
-Generate file "E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\pnr\AD_DA_test.tr.html" completed
-Mon Mar 17 18:08:29 2025
+Generate file "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\pnr\AD_DA_test.power.html" completed
+Generate file "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\pnr\AD_DA_test.pin.html" completed
+Generate file "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\pnr\AD_DA_test.rpt.html" completed
+Generate file "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\pnr\AD_DA_test.rpt.txt" completed
+Generate file "E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\pnr\AD_DA_test.tr.html" completed
+Tue Mar 18 19:36:54 2025
 

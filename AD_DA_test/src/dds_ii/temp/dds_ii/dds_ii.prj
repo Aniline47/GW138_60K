@@ -11,7 +11,7 @@
         <Option type="disable_insert_pad" value="1"/>
         <Option type="enable_dsrm" value="0"/>
         <Option type="include_path" value="E:/Gowin/Gowin_V1.9.10.03_x64/IDE/ipcore/DDS_II/data"/>
-        <Option type="include_path" value="E:/Gowin/Project_Contest/AD_DA_test/src/dds_ii/temp/dds_ii"/>
+        <Option type="include_path" value="E:/Gowin/Project_Contest/GW138_60K/AD_DA_test/src/dds_ii/temp/dds_ii"/>
         <Option type="output_file" value="dds_ii.vg"/>
         <Option type="output_template" value="dds_ii_tmp.v"/>
         <Option type="ram_balance" value="1"/>

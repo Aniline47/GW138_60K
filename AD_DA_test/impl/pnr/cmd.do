@@ -1,10 +1,9 @@
--d E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\gwsynthesis\AD_DA_test.vg
+-d E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\gwsynthesis\AD_DA_test.vg
 -p GW5AST-138B-PBGA484A-1
 -pn GW5AST-LV138PG484AC1/I0
--cst E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\src\AD_DA_test.cst
--cfg E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\impl\pnr\device.cfg
--sdc E:\Gowin\Project_Contest\GW138_60B\AD_DA_test\src\AD_DA_test.sdc
--gao_crc 1111010110010100
+-cst E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\src\AD_DA_test.cst
+-cfg E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\impl\pnr\device.cfg
+-sdc E:\Gowin\Project_Contest\GW138_60K\AD_DA_test\src\AD_DA_test.sdc
 -bit
 -tr
 -ph
@@ -18,4 +17,3 @@
 -route_maxfan 23
 -global_freq 100.000
 -enable_dsrm 0
--rtl_gao

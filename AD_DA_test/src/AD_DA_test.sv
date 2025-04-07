@@ -45,6 +45,6 @@ module AD_DA_test (
     assign clk_out_n_da_1=~clk_out_da;
     assign u12_ad_data_in_1=i12_ad_data_in_1-2048;
     assign u12_ad_data_in_2=i12_ad_data_in_2-2048;
-    assign da_data_out_1=sine_o-8192;
+    assign da_data_out_1=sine_o;
 
 endmodule

@@ -5,7 +5,7 @@
 //Part Number: GW5AST-LV138PG484AC1/I0
 //Device: GW5AST-138
 //Device Version: B
-//Created Time: Mon Mar 17 16:41:43 2025
+//Created Time: Tue Mar 18 19:35:57 2025
 
 module Gowin_PLL_DA (clkout0, clkin);
 
@@ -80,14 +80,14 @@ PLL PLL_inst (
 defparam PLL_inst.FCLKIN = "50";
 defparam PLL_inst.IDIV_SEL = 1;
 defparam PLL_inst.FBDIV_SEL = 1;
-defparam PLL_inst.ODIV0_SEL = 5;
+defparam PLL_inst.ODIV0_SEL = 6;
 defparam PLL_inst.ODIV1_SEL = 8;
 defparam PLL_inst.ODIV2_SEL = 8;
 defparam PLL_inst.ODIV3_SEL = 8;
 defparam PLL_inst.ODIV4_SEL = 8;
 defparam PLL_inst.ODIV5_SEL = 8;
 defparam PLL_inst.ODIV6_SEL = 8;
-defparam PLL_inst.MDIV_SEL = 21;
+defparam PLL_inst.MDIV_SEL = 18;
 defparam PLL_inst.MDIV_FRAC_SEL = 0;
 defparam PLL_inst.ODIV0_FRAC_SEL = 0;
 defparam PLL_inst.CLKOUT0_EN = "TRUE";
