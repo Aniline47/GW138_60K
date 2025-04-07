@@ -2,11 +2,11 @@
 
 
 ## 📖 描述  
-**基于Tang Mega 138K / 60K 二次开发的一款FPGA开发板**，在GW138_060A的基础上进行修改。  
+**基于Tang Mega 138K / 60K 二次开发的一款FPGA开发底板**，在GW138_060A的基础上进行修改。  
 
 
 ## 🔗 参考  
-- **[GW138_060A](https://bigpig.ongridea.com/h9wtn0)**：基于Tang Mega 138K/60K二次开发的FPGA开发板  
+- **[GW138_060A](https://bigpig.ongridea.com/h9wtn0)**：基于Tang Mega 138K/60K二次开发的FPGA开发底板  
   
 
 
@@ -47,4 +47,5 @@
 ## 🚀 扩展程序  
 | **项目名称** | **链接** | **说明** |  
 |--------------|----------|----------|  
-| **Gowin-138K-OC8051** | [GitHub](https://github.com/Aniline47/GOWIN-138K-OC8051) | 在Gowin 138K上实现8051内核的移植与开发 |  
+| **Gowin-138K-OC8051** | [GitHub](https://github.com/Aniline47/GOWIN-138K-OC8051) | 基于Tang Mega 138k核心板与GW138/60A底板上实现OC8051开源工程移植 |  
+| **Gowin-138K-AE350** | [GitHub](https://github.com/Aniline47/GOWIN-138K-AE350) | 基于Tang Mega 138k核心板与GW138/60B底板上实现AE350工程移植开发 |  
