@@ -6,8 +6,8 @@
 
 
 ## 🔗 参考  
-- **GW138_060A**：基于Tang Mega 138K/60K二次开发的FPGA开发板  
-  [GW138_060A](https://bigpig.ongridea.com/h9wtn0)  
+- **[GW138_060A](https://bigpig.ongridea.com/h9wtn0)**：基于Tang Mega 138K/60K二次开发的FPGA开发板  
+  
 
 
 
