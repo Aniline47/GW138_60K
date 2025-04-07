@@ -20,7 +20,7 @@
 | **外设模块** | **说明/链接** |  
 |--------------|--------------|  
 | **多路LED IO测试模块** | [大猪蹄子博客](https://bigpig.ongridea.com/kl43wg) |  
-| **正点/黑金/小梅哥转接板** | [外设适配指南](https://bigpig.ongridea.com/wai-she-1-hei-jin) |  
+| **正点/黑金/小梅哥转接板** | [大猪蹄子博客](https://bigpig.ongridea.com/wai-she-1-hei-jin) |  
 | **LTC2220_12Bit_170M_ADC** | 12位170M采样率ADC |  
 | **AD9744_14Bit_210M_DAC** | 14位210M输出率DAC |  
 
